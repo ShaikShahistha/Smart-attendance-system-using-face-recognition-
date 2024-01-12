@@ -42,6 +42,15 @@ add_student_photo()
 
 
 
+
+
+
+
+
+
+
+
+
 import cv2
 import face_recognition
 import os
